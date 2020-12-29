@@ -13,5 +13,3 @@ func solution(_ numbers:[Int]) -> [Int] {
     return Array(tempSet).sorted()
 }
 
-let array = [5,0,2,7]
-solution(array)
